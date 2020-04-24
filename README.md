@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Because I was too lazy to make this an input field because this was only supposed to be used this once.
 
-Add your api key to `src/App.tsx`
+Add your client id to `src/App.tsx`
 replace 
 ```
  const client_id = 'YOUR_CLIENT_ID_HERE';
