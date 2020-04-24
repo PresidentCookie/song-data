@@ -16,7 +16,7 @@ replace
 
  With your api key from registering your app as a client for the [Spotify Web API](https://developer.spotify.com/documentation/web-api/) and adding a callback url of `http://localhost:3000/callback`
 
-## `yarn start`
+## `npm start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -27,4 +27,4 @@ You need to pass in a list of track ID's to `src/App.tsx` for this to work on.  
 const trackIds = ["127QTOFJsJQp5LbJbu3A1y","22LAwLoDA5b4AaGSkg6bKW","0VjIjW4GlUZAMYd2vXMi3b"...]
 ```
 
-
+The data should be able to be copy pasted into excel, its semi colon delemited with an initial row of column names as well.
