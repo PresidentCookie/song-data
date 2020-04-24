@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## You need to install node
 
-## Add API Key
+## Add Client ID
 
 Because I was too lazy to make this an input field because this was only supposed to be used this once.
 
@@ -14,7 +14,7 @@ replace
  const client_id = 'YOUR_CLIENT_ID_HERE';
  ```
 
- With your api key from registering your app as a client for the [Spotify Web API](https://developer.spotify.com/documentation/web-api/) and adding a callback url of `http://localhost:3000/callback`
+ With your Client ID from registering your app as a client for the [Spotify Web API](https://developer.spotify.com/documentation/web-api/) and adding a callback url of `http://localhost:3000/callback`
 
 ## `npm start`
 
